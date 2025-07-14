@@ -5,8 +5,6 @@
 
 <!-- - 🔭 I’m currently working remotly on [Triller-UK](https://play.google.com/store/apps/details?id=co.triller.droid&hl=en&gl=US) -->
 
-- 🌱 I’m currently learning **Jetpack compose, Unit testing**
-
 - 👨‍💻 All of my projects are available at [https://github.com/MohamedEmish](https://github.com/MohamedEmish)
 
 - 💬 Ask me about **Android, Kotlin, Java**
